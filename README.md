@@ -6,34 +6,40 @@
 
 ---
 
+### Compliance & deadlines
+A regulator set a date. These read your documents and say what fails — before someone else does.
+
+| | | |
+|---|---|---|
+| **[InvoiceIn](https://invoicein.peculiar.systems)** | Every e-invoice you receive, as one JSON | `beta` |
+| **[ShopOffen](https://shopoffen.peculiar.systems)** | Ihr Shop, offen für alle — BFSG-Vorprüfung | `live` |
+| **[DryRun](https://dryrun.peculiar.systems)** | Pass the DOT audit before the DOT shows up | `live` |
+
 ### Signals & feeds
-Public data, cleaned and delivered before anyone else has read it.
+Alerts and feeds that surface a moment before anyone else notices.
 
 | | | |
 |---|---|---|
 | **[FirstFile](https://firstfile.peculiar.systems)** | Know every new Colorado business by the next morning | `live` |
 | **[PreOpen](https://preopen.peculiar.systems)** | Catch a restaurant before it opens its doors | `live` |
 
-### Tools for a trade
-Built for one profession, and useless to everyone else.
+### Done-for-you
+We do the unglamorous work so a solo operator doesn't have to.
 
 | | | |
 |---|---|---|
-| **[InvoiceIn](https://invoicein.peculiar.systems)** | Every e-invoice you receive, as one JSON | `beta` |
+| **[ShipShots](https://shipshots.peculiar.systems)** | App-store screenshots, done in two days | `beta` |
+| **[BatchMatch](https://batchmatch.peculiar.systems)** | Find the manufacturer your product is waiting for | `live` |
+
+### Kits you own
+Files you download and keep: no login, no subscription, nothing to outlive.
+
+| | | |
+|---|---|---|
 | **[SponsorReady](https://sponsorready.peculiar.systems)** | Start selling newsletter sponsorships this week | `beta` |
 
-### Done-for-you
-A person does the work; the product is the outcome.
-
-| | | |
-|---|---|---|
-| **[DryRun](https://dryrun.peculiar.systems)** | Pass the DOT audit before the DOT shows up | `live` |
-| **[BatchMatch](https://batchmatch.peculiar.systems)** | Find the manufacturer your product is waiting for | `live` |
-| **[ShopOffen](https://shopoffen.peculiar.systems)** | Ihr Shop, offen für alle — BFSG-Vorprüfung | `live` |
-| **[ShipShots](https://shipshots.peculiar.systems)** | App-store screenshots, done in two days | `beta` |
-
 ### AI-era audits
-What the assistants say about you, measured rather than guessed.
+How machines see, quote, and act on your business — checked.
 
 | | | |
 |---|---|---|
