@@ -38,14 +38,6 @@ Files you download and keep: no login, no subscription, nothing to outlive.
 |---|---|---|
 | **[SponsorReady](https://sponsorready.peculiar.systems)** | Start selling newsletter sponsorships this week | `beta` |
 
-### AI-era audits
-How machines see, quote, and act on your business — checked.
-
-| | | |
-|---|---|---|
-| **[AIVisible](https://aivisible.peculiar.systems)** | See who the AI assistants actually recommend | `in development` |
-| **[AboutMe.ai](https://aboutme.peculiar.systems)** | See what AI says about you — then shape it | `in development` |
-
 ---
 
 ## What's open here
