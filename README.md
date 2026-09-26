@@ -12,7 +12,7 @@ A regulator set a date. These read your documents and say what fails — before 
 | | | |
 |---|---|---|
 | **[InvoiceIn](https://invoicein.peculiar.systems)** | Every e-invoice you receive, as one JSON | `beta` |
-| **[ShopOffen](https://shopoffen.peculiar.systems)** | Ihr Shop, offen für alle — BFSG-Vorprüfung | `live` |
+| **[ShopOffen](https://shopoffen.peculiar.systems)** | Free accessibility check for EU online shops (EAA) | `live` |
 | **[DryRun](https://dryrun.peculiar.systems)** | Pass the DOT audit before the DOT shows up | `live` |
 
 ### Signals & feeds
@@ -47,5 +47,7 @@ Most of what we build is a hosted service, so this org is small on purpose. What
 **[invoicein-examples](https://github.com/peculiar-systems/invoicein-examples)** — runnable examples, sample invoices in every format we accept, the MCP manifest and a stdio bridge. MIT.
 
 [![MCP server rated A on Glama](https://glama.ai/mcp/servers/peculiar-systems/invoicein-examples/badges/score.svg)](https://glama.ai/mcp/servers/peculiar-systems/invoicein-examples)
+
+**[shopoffen](https://github.com/peculiar-systems/shopoffen)** — the scanner behind ShopOffen: axe-core plus the checks axe doesn't do, reports in 15 languages, and a dataset of the EAA national laws for 17 countries, checked in primary sources. MIT (code), CC BY 4.0 (texts and data).
 
 InvoiceIn is also on the [official MCP registry](https://registry.modelcontextprotocol.io/v0/servers?search=invoicein) as `io.github.peculiar-systems/invoicein`, on [Smithery](https://smithery.ai/servers/peculiar-systems/invoicein), and in [public-apis](https://github.com/public-apis/public-apis).
